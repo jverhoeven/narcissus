@@ -9,7 +9,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "inline-style-prefixer": "*"
+    "inline-style-prefixer": "^3.0.8"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
